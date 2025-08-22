@@ -12,6 +12,7 @@ It recreates the layout and design of the original Spotify web interface.
 Here are screenshots of my project:
 
 ![Game Screenshot](Screenshot-1.png)
+
 ![Game Screenshot](Screenshot-2.png)
 
 ## Technologies Used
