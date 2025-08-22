@@ -8,6 +8,12 @@ It recreates the layout and design of the original Spotify web interface.
 - Playlist and content layout inspired by Spotify
 - Music player controls (UI only – no functionality)
 
+## Screenshot
+Here are screenshots of my project:
+
+![Game Screenshot](Screenshot 1.png)
+![Game Screenshot](Screenshot 2.png)
+
 ## Technologies Used
 - HTML5
 - CSS3
